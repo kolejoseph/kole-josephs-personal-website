@@ -7,11 +7,11 @@ exports.handler = async function Index () {
     /**
      * Basic bio
      */
-    fullname: 'kole joseph', // ←  Start by adding your name!
+    fullname: 'Kole Joseph', // ←  Start by adding your name!
     title: 'Cursed land',
     occupation: 'biologist',
     location: 'pleasnt hill, CA',
-    bio: 'I love cats and I want to get good at coding so I started this websir\',
+    bio: 'I love cats and I want to get good at coding so I started this website',
 
     /**
      * Contact / social
@@ -21,7 +21,7 @@ exports.handler = async function Index () {
     twitter: '',
     linkedin: '',
     instagram: '',
-    facebook: ',
+    facebook: '',
 
     /**
      * Layout
