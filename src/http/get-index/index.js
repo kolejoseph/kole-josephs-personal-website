@@ -7,29 +7,29 @@ exports.handler = async function Index () {
     /**
      * Basic bio
      */
-    fullname: 'Your Name', // ←  Start by adding your name!
-    title: 'My personal site!',
-    occupation: 'Artist & Photographer',
-    location: 'West Glacier, MT',
-    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.',
+    fullname: 'kole joseph', // ←  Start by adding your name!
+    title: 'Cursed land',
+    occupation: 'biologist',
+    location: 'pleasnt hill, CA',
+    bio: 'I love cats and I want to get good at coding so I started this websir\',
 
     /**
      * Contact / social
      * - Comment out any item below to remove it from your page
      */
-    email: 'your@email.com',
-    twitter: 'yourTwitter',
-    linkedin: 'your-linkedin-name',
-    instagram: 'yourInsta',
-    facebook: 'your-facebook-name',
+    email: '',
+    twitter: '',
+    linkedin: '',
+    instagram: '',
+    facebook: ',
 
     /**
      * Layout
      */
-    photographer: 'Ivana Cajina',
+    photographer: '',
     service: 'Unsplash',
-    credit: 'https://unsplash.com/@von_co',
-    image: staticAssetsHelper('background.jpg')
+    credit: '',
+    image: 'https://images.unsplash.com/photo-1532951779377-1080f5c62ab7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
     // or link to an external image URL such as ↓
     // image: 'https://images.unsplash.com/photo-1506535772317-9fdb71c959c6'
   })
