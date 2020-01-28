@@ -40,7 +40,6 @@ exports.handler = async function Index () {
       'cache-control': 'no-cache, no-store, must-revalidate, max-age=0, s-maxage=0'
     },
     <body>
-      <a href="https://coolmathgames.com"
-    <body>
+    
   }
 }
